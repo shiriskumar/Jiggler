@@ -5,11 +5,14 @@
 ## Introduction
 Make yourself a coffee! Let the world think you are ONLINE. :laughing:
 
-##Requirements
+This is not a conventional mouse jiggler.
+This scripts works on continuous keystrokes calls to prevent screensaver and keeps you online. :wink:
+
+## Requirements
 1. Python 3
 2. pyautogui module
 
-##Usage
+## Usage
 
 Install pyautogui module
 ```bash
