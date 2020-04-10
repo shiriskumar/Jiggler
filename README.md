@@ -6,7 +6,8 @@
 Make yourself a coffee! Let the world think you are ONLINE. :laughing:
 
 This is not a conventional mouse jiggler.
-This scripts works on continuous keystrokes calls to prevent screensaver and keeps you online. :wink:
+This script works on continuous keystroke calls to prevent screensaver and keeps you online. :wink:
+Enjoy!
 
 ## Requirements
 1. Python 3
